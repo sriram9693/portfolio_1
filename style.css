@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heroSecContainer{
+    background-image: linear-gradient(360deg,  #ced7d7e1, transparent 70%), url(./assets/images/2_bg.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+li{
+    list-style-type: none;
+}
+
+.aboutmeContainer,.educationContainer,.skillContainer,.projectsContainer,.contactContainer{
+    background-color: #c7c8c9bb;
+}
